@@ -27,14 +27,11 @@ h1{
 }
 .link-button{
     text-decoration: none;
-    background: linear-gradient(45deg, lightsalmon, tomato);
+    background: linear-gradient( orange, tomato);
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
     font-weight: 700;
-}
-p{
-    color: dimgray;
 }
 .dream-area{
     background-image: url("images/dream-bg.png");
@@ -59,7 +56,7 @@ h2{
 }
 #full-stack{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image: linear-gradient(orange, tomato);
     border-image-slice: 1;
 }
 #baby-web{
